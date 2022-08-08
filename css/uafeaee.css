@@ -1,0 +1,46 @@
+				@font-face {
+					font-family: 'graphik-bold';
+					src: url('7444Graphik-Bold.html') format('woff2'),
+						url('7444Graphik-Bold.woff') format('woff');
+					font-display: auto;
+				}
+
+				.graphik-bold{font-family: 'graphik-bold' !important;}
+
+						@font-face {
+					font-family: 'graphik-regular';
+					src: url('1703Graphik-Regular.html') format('woff2'),
+						url('1703Graphik-Regular.woff') format('woff');
+					font-display: auto;
+				}
+
+				.graphik-regular{font-family: 'graphik-regular' !important;}
+
+						@font-face {
+					font-family: 'graphik-medium';
+					src: url('8478Graphik-Medium.html') format('woff2'),
+						url('8478Graphik-Medium.woff') format('woff');
+					font-display: auto;
+				}
+
+				.graphik-medium{font-family: 'graphik-medium' !important;}
+
+						@font-face {
+					font-family: 'graphik-black';
+					src: url('7555Graphik-Black.html') format('woff2'),
+						url('7555Graphik-Black.woff') format('woff');
+					font-display: auto;
+				}
+
+				.graphik-black{font-family: 'graphik-black' !important;}
+
+						h1, h2{
+					font-family: 'graphik-black' !important;
+				}
+						h3, h4, h5, h6{
+					font-family: 'graphik-bold' !important;
+				}
+						body{
+					font-family: 'graphik-regular' !important;
+				}
+		
